@@ -1,4 +1,4 @@
-# Emoji Completion Project  Emoji补全计划
+# Emoji Completion Project - Emoji补全计划
 
 | Name | Code | Twemoji | EmojiOne |
 |:-:|:-:|:-:|:-:|
