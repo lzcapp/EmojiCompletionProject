@@ -1,6 +1,4 @@
 # Emoji Completion Project  Emoji补全计划
- 
-## Soviet Union
 
 | Name | Code | Twemoji | EmojiOne |
 |:-:|:-:|:-:|:-:|
