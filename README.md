@@ -1,5 +1,7 @@
 # Emoji Completion Project - Emoji补全计划
 
+![GitHub last commit](https://img.shields.io/github/last-commit/RainySummerLuo/EmojiCompletionProject?style=for-the-badge)&nbsp;&nbsp;![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/RainySummerLuo/EmojiCompletionProject?include_prereleases&style=for-the-badge)
+
 | Name | Code | Twemoji | EmojiOne |
 |:-:|:-:|:-:|:-:|
 | `🇸` `🇺` | `1f1f8` `1f1fa` | <img src="https://raw.githubusercontent.com/RainySummerLuo/EmojiCompletionProject/main/draw/Twemoji/emoji_u1f1f8_1f1fa.png" width="150px" /> | <img src="https://raw.githubusercontent.com/RainySummerLuo/EmojiCompletionProject/main/draw/EmojiOne/emoji_u1f1f8_1f1fa.png" width="150px" /> |
