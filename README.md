@@ -5,7 +5,7 @@
 | Name | Code | Code | Twemoji | EmojiOne |
 |:-:|:-:|:-:|:-:|:-:|
 | - | 增加 | - | Add | - |
-| 苏联 | `🇸` `🇺` | `1f1f8` `1f1fa` | <img src="./Twemoji/Soviet_Union.png" width="150px" /> | <img src="./EmojiOne/Soviet_Union.png" width="150px" /> |
+| 苏联<br/>苏维埃社会主义共和国联盟 | `🇸` `🇺` | `1f1f8` `1f1fa` | <img src="./Twemoji/Soviet_Union.png" width="150px" /> | <img src="./EmojiOne/Soviet_Union.png" width="150px" /> |
 | 新义州<br/>特别行政区 | `🇸` `🇳` `🇯` | `1f1f0` `1f1f5`<br/>`1f1f8` `1f1f3` `1f1ef` | <img src="./Twemoji/Sinŭiju_Special_Administrative_Region.png" width="150px" /> | <img src="./EmojiOne/Sinŭiju_Special_Administrative_Region.png" width="150px" /> |
 | - | Substitute | 替换 | - |
 | 台湾<br/>特别行政区 | `🇹` `🇼` | `1f1f9` `1f1fc` | <img src="./Twemoji/Taiwan_Special_Administrative_Region.png" width="150px" /> | <img src="./EmojiOne/Taiwan_Special_Administrative_Region.png" width="150px" /> |
